@@ -10,6 +10,7 @@ set linespace=0
 set ignorecase
 set smartcase
 set number
+set mouse=a
 
 filetype plugin on
 syntax on
